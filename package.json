@@ -1,0 +1,32 @@
+{
+  "name": "shop",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dayjs": "^1.10.6",
+    "echarts": "^5.1.2",
+    "element-plus": "^1.0.2-beta.62",
+    "element-ui": "^2.15.3",
+    "lodash": "^4.17.21",
+    "nprogress": "^0.2.0",
+    "quill": "^1.3.7",
+    "vue": "^3.1.5",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^4.0.10",
+    "vue-table-with-tree-grid": "^0.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "babel-plugin-component": "^1.1.1",
+    "less": "^4.1.1",
+    "less-loader": "^10.0.1",
+    "vite": "^2.4.3",
+    "vue-cli-plugin-element": "~1.0.1"
+  }
+}
